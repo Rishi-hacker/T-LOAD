@@ -17,7 +17,7 @@ echo " "
 echo " "
 cat letter.txt
 echo " "
-echo "                      " ✿♥✿░T░H░A░N░K░S░✿♥✿ | lolcat
+echo "                      " ✿♥Rishi-Hacker♥✿ | lolcat
 echo " " 
 echo " "
 sleep 16.0
